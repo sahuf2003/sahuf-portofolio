@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/sahuf-portofolio/static/css/main.89cd4def.css",
+    "main.js": "/sahuf-portofolio/static/js/main.a38854d0.js",
+    "static/media/Cuddles_co.png": "/sahuf-portofolio/static/media/Cuddles_co.79119cfc0b35dd76f722.png",
+    "static/media/wemakeweb.png": "/sahuf-portofolio/static/media/wemakeweb.30c257b4042d6b18c9ab.png",
+    "static/media/music_player.png": "/sahuf-portofolio/static/media/music_player.0f5ce37a57a487795948.png",
+    "static/media/git.png": "/sahuf-portofolio/static/media/git.5f8379071e047a47818b.png",
+    "static/media/python.png": "/sahuf-portofolio/static/media/python.b8b634d27f1150d5666b.png",
+    "static/media/sql.png": "/sahuf-portofolio/static/media/sql.c064c8e269ffd0f63d45.png",
+    "static/media/bootstrap.png": "/sahuf-portofolio/static/media/bootstrap.3aa201cfba56b85533ad.png",
+    "static/media/express.png": "/sahuf-portofolio/static/media/express.dc2acca800589d2bd065.png",
+    "static/media/java.png": "/sahuf-portofolio/static/media/java.427ce85e1604b7f73c94.png",
+    "static/media/quiz.png": "/sahuf-portofolio/static/media/quiz.fce3c01b04425446d7d1.png",
+    "static/media/C++.png": "/sahuf-portofolio/static/media/C++.8c2e0899adc867587b21.png",
+    "static/media/react.png": "/sahuf-portofolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/aws.png": "/sahuf-portofolio/static/media/aws.95bdee6b9922c9b94fd5.png",
+    "static/media/Sahuflogo.png": "/sahuf-portofolio/static/media/Sahuflogo.e46e8bc9f0c7339f2608.png",
+    "static/media/node.png": "/sahuf-portofolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/Snake_game.png": "/sahuf-portofolio/static/media/Snake_game.14cb5e75982f28b3baa7.png",
+    "static/media/mongo.png": "/sahuf-portofolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/C.png": "/sahuf-portofolio/static/media/C.63a78f810971a0101e9e.png",
+    "static/media/github.png": "/sahuf-portofolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/docker.png": "/sahuf-portofolio/static/media/docker.225c8048ba5b5c16d530.png",
+    "static/media/html.png": "/sahuf-portofolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/sahuf-portofolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/sahuf-portofolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/ping_pong.png": "/sahuf-portofolio/static/media/ping_pong.96e4dd2a6bbe42d4e555.png",
+    "static/media/javascript.png": "/sahuf-portofolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/sahuf-portofolio/index.html",
+    "main.89cd4def.css.map": "/sahuf-portofolio/static/css/main.89cd4def.css.map",
+    "main.a38854d0.js.map": "/sahuf-portofolio/static/js/main.a38854d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89cd4def.css",
+    "static/js/main.a38854d0.js"
+  ]
+}
