@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "/sahuf-portofolio/static/css/main.89cd4def.css",
-    "main.js": "/sahuf-portofolio/static/js/main.a38854d0.js",
+    "main.js": "/sahuf-portofolio/static/js/main.367cb38d.js",
+    "static/media/savaa.png": "/sahuf-portofolio/static/media/savaa.57b7737605711dd6e4f5.png",
     "static/media/Cuddles_co.png": "/sahuf-portofolio/static/media/Cuddles_co.79119cfc0b35dd76f722.png",
     "static/media/wemakeweb.png": "/sahuf-portofolio/static/media/wemakeweb.30c257b4042d6b18c9ab.png",
+    "static/media/waste.png": "/sahuf-portofolio/static/media/waste.4e00d64a25aa5636d214.png",
     "static/media/music_player.png": "/sahuf-portofolio/static/media/music_player.0f5ce37a57a487795948.png",
+    "static/media/webathon.png": "/sahuf-portofolio/static/media/webathon.b27ca192dd48e77da449.png",
+    "static/media/wechat.png": "/sahuf-portofolio/static/media/wechat.b4d8855213885154fa41.png",
     "static/media/git.png": "/sahuf-portofolio/static/media/git.5f8379071e047a47818b.png",
     "static/media/python.png": "/sahuf-portofolio/static/media/python.b8b634d27f1150d5666b.png",
     "static/media/sql.png": "/sahuf-portofolio/static/media/sql.c064c8e269ffd0f63d45.png",
@@ -29,10 +33,10 @@
     "static/media/javascript.png": "/sahuf-portofolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/sahuf-portofolio/index.html",
     "main.89cd4def.css.map": "/sahuf-portofolio/static/css/main.89cd4def.css.map",
-    "main.a38854d0.js.map": "/sahuf-portofolio/static/js/main.a38854d0.js.map"
+    "main.367cb38d.js.map": "/sahuf-portofolio/static/js/main.367cb38d.js.map"
   },
   "entrypoints": [
     "static/css/main.89cd4def.css",
-    "static/js/main.a38854d0.js"
+    "static/js/main.367cb38d.js"
   ]
 }
