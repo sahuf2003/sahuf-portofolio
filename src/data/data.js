@@ -38,7 +38,7 @@ export const data=[
     },
     {
         id:6,
-        name:"Quiz",
+        name:"Waste Watcher",
         image:quiz,
         github:"https://github.com/sahuf2003/QUIZ-GUI-",
     },
